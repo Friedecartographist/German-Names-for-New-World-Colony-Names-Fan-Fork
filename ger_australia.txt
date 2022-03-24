@@ -43,7 +43,7 @@
 1090 = "Franckstadt"
 4857 = "Goldkap"
 4859 = "Königinberg"
-4860 = "Generalfurt"
+4860 = "Fredericksfurt"
 
 
 
